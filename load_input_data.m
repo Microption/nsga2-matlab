@@ -8,7 +8,7 @@ global popsize ;
 global ngen ;
 global nobj ;
 global ncon ;
-global nreal ;
+global nreal ; % 第11行到第17行都是实数变量的各种值，即作者的回答参数的pull-request的line 6+n到line 6+n+4;
 global min_realvar ;
 global max_realvar ;
 global pcross_real ;
